@@ -6,7 +6,7 @@ I'm a passionate software developer and computer science graduate with a focus o
 - **Languages**: Python, JavaScript, HTML/CSS
 - **Frameworks**: Node.js, React.js, Next.js
 - **Tools**: Git, Docker, LaTeX
-- **Blockchain**: Zero-Knowledge Proofs, Smart Contracts, Ethereum
+- **Blockchain**: Zero-Knowledge Proofs, Smart Contracts, Web3
 
 ## 🌱 Current Projects
  
