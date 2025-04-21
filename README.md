@@ -8,7 +8,7 @@ I'm a passionate software developer and computer science graduate with a focus o
 - **Tools**: Git, Docker, LaTeX
 - **Blockchain**: Zero-Knowledge Proofs, Smart Contracts, Web3
 
-## 🌱 Current Projects
+<!-- ## 🌱 Current Projects -->
  
 
 ## 📫 Get in Touch
