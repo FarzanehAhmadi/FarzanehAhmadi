@@ -9,8 +9,9 @@ I'm a passionate software developer and computer science graduate with a focus o
 - **Blockchain**: Zero-Knowledge Proofs, Smart Contracts, Web3
 
 <!-- ## 🌱 Current Projects -->
- [![Codewars](https://img.shields.io/badge/Codewars-5%20kyu-yellow?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Farzaneh%20Ahmadi)  
-**Honor:** 547
+[![Codewars](https://www.codewars.com/users/Farzaneh%20Ahmadi/badges/micro)](https://www.codewars.com/users/Farzaneh%20Ahmadi)  
+[![Codewars Rank](https://img.shields.io/badge/Codewars-5%20kyu-yellow?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Farzaneh%20Ahmadi)
+
 
 
 ## 📫 Get in Touch
