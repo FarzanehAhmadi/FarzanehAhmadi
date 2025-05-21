@@ -17,7 +17,7 @@ I have a Master’s in Computer Science, specializing in cryptography and blockc
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzanehAhmadi&layout=compact&theme=radical" alt="Top Langs" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=FarzanehAhmadi&theme=radical" />
+
 
 </div>
 
