@@ -22,7 +22,9 @@ I have a Master’s in Computer Science, specializing in cryptography and blockc
 </div>
 
 ---
-![Visitors](https://komarev.com/ghpvc/?username=FarzanehAhmadi&label=Visitors&color=4D4D4D)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FarzanehAhmadi&label=Visitors&color=4D4D4D" alt="visitor badge"/>
+</p>
 
 
 ## 📫 Get in Touch
