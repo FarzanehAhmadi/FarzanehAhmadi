@@ -11,7 +11,7 @@ I have a Master’s in Computer Science, specializing in cryptography and blockc
 
 <!-- ## 🌱 Current Projects -->
 [![Codewars](https://www.codewars.com/users/Farzaneh%20Ahmadi/badges/micro)](https://www.codewars.com/users/Farzaneh%20Ahmadi)  
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FarzanehAhmadi&show_icons=true&theme=radical&count_private=true" alt="Farzaneh's GitHub stats" />
   <br />
@@ -20,7 +20,7 @@ I have a Master’s in Computer Science, specializing in cryptography and blockc
 
 
 </div>
-
+-->
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FarzanehAhmadi&label=Visitors&color=4D4D4D" alt="visitor badge"/>
