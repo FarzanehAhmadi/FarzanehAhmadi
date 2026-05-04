@@ -21,6 +21,11 @@ I have a Master’s in Computer Science, specializing in cryptography and blockc
 
 </div>
 -->
+## 🏅 Certifications
+
+[![Umbraco Certified Developer Badge](https://images.credly.com/size/340x340/images/placeholder.png)](https://www.credly.com/badges/5c73bc91-b64b-441b-8a71-1ccdec993cef)
+
+- [View Umbraco Certification Details](https://umbraco.com/training/certified-developers/developer/?uid=44996)
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FarzanehAhmadi&label=Visitors&color=4D4D4D" alt="visitor badge"/>
