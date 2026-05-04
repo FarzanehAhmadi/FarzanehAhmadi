@@ -23,7 +23,7 @@ I have a Master’s in Computer Science, specializing in cryptography and blockc
 -->
 ## 🏅 Certifications
 
-[![Umbraco Certified Developer Badge](https://images.credly.com/size/340x340/images/placeholder.png)](https://www.credly.com/badges/5c73bc91-b64b-441b-8a71-1ccdec993cef)
+[![Umbraco Certified Developer Badge]([https://images.credly.com/size/340x340/images/placeholder.png](https://umbraco.com/media/05zbccw3/graphic_certification_pro-1.png?format=webp&width=920&height=370&quality=85&v=1dace1b49cd96a0)](https://www.credly.com/badges/5c73bc91-b64b-441b-8a71-1ccdec993cef)
 
 - [View Umbraco Certification Details](https://umbraco.com/training/certified-developers/developer/?uid=44996)
 ---
